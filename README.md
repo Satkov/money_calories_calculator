@@ -1,2 +1,1 @@
-# hw_python_oop
-Sprint 2. Итоговый проект.
+This is final project of OOP course.
